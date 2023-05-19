@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://technoboi.000webhostapp.com` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/wi0x90yc00?key=4a7558d7a46e355fe4714b6d14400a87` 
 				}`,
 			},
 		};
